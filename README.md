@@ -1,0 +1,2 @@
+# Newbie
+Pelajaran awal
